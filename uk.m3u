@@ -27,8 +27,6 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 http://45.159.74.14:80/Eurosport/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png" group-title="Sports",Eurosport 2
 http://62.210.123.134:98/live/an75d/75d/145.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.USA.us" tvg-logo="https://yt3.googleusercontent.com/EKBT19BrrkDkhoxOjenonvDxIf0s4wDljOnCzPos7z3qAbmwA_cgNCDY_a1i_K_3dhH1BWmknQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",CBS Sports Golazo
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://yt3.googleusercontent.com/EKBT19BrrkDkhoxOjenonvDxIf0s4wDljOnCzPos7z3qAbmwA_cgNCDY_a1i_K_3dhH1BWmknQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Sky Sports Bundesliga
 http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="France.2.fr",France 2
