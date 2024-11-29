@@ -13,8 +13,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCScotland.uk",BBC Scotland HD 
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="STV.HD.uk",STV 
-https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
+#EXTINF:-1 tvg-id="ITV1.HD.uk",ITV 
+http://92.114.85.81:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports", Machester United TV
@@ -27,3 +27,19 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 http://45.159.74.14:80/Eurosport/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png" group-title="Sports",Eurosport 2
 http://62.210.123.134:98/live/an75d/75d/145.ts
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.USA.us" tvg-logo="https://yt3.googleusercontent.com/EKBT19BrrkDkhoxOjenonvDxIf0s4wDljOnCzPos7z3qAbmwA_cgNCDY_a1i_K_3dhH1BWmknQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",CBS Sports Golazo USA
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://yt3.googleusercontent.com/EKBT19BrrkDkhoxOjenonvDxIf0s4wDljOnCzPos7z3qAbmwA_cgNCDY_a1i_K_3dhH1BWmknQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",CBS Sports Golazo USA
+http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="France.2.fr",France 2
+http://51.178.65.238/France2/index.m3u8
+#EXTINF:-1 tvg-id="France.3.fr",France 3
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/3.m3u8
+#EXTINF:-1 tvg-id="France.5.fr",France 5
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/5.m3u8
+#EXTINF:-1 tvg-id="M6.fr",M6
+https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
+#EXTINF:-1 tvg-id="TF1.fr",TF1
+http://212.102.60.80/TF1/index.m3u8
+#EXTINF:-1 tvg-id="BFM.Lyon.fr",BFM Lyon
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
