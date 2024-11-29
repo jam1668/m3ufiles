@@ -47,3 +47,5 @@ http://51.178.65.238/BeinSport/mono.m3u8
 http://92.114.85.81:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="Channel.5.uk",Channel 5
 http://92.114.85.81:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://archive.org/services/img/SkySportsF1New_201708" group-title="Sports",Sky Sports F1
+https://operurite.xyz/live/f1/chunks.m3u8
