@@ -21,4 +21,5 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://archive.org/services/img/SkySportsF1New_201708" group-title="Sports",Sky Sports F1
+https://operurite.xyz/live/f1/chunks.m3u8
