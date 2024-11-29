@@ -45,3 +45,5 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LI
 http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1 tvg-id="U.and.Dave.HD.uk",Dave
 http://92.114.85.81:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="Channel.5.uk",Channel 5
+http://92.114.85.81:8000/play/a01g/index.m3u8
