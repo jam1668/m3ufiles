@@ -1,55 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC.One.NE.and.C.HD.uk",BBC One North East
+#EXTINF:-1 tvg-id="BBC.One.NE.and.C.HD.uk" group-title="JAMES",BBC One North East
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCTwoEngland.uk",BBC Two HD
+#EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="JAMES",BBC Two HD
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCThree.uk",BBC Three HD
+#EXTINF:-1 tvg-id="BBCThree.uk" group-title="JAMES",BBC Three HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="CBBC.uk",CBBC HD
+#EXTINF:-1 tvg-id="CBBC.uk" group-title="JAMES",CBBC HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="CBeebies.uk",CBeebies HD
+#EXTINF:-1 tvg-id="CBeebies.uk" group-title="JAMES",CBeebies HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC.RB.1.uk",BBC Red Button One
+#EXTINF:-1 tvg-id="BBC.RB.1.uk" group-title="JAMES",BBC Red Button One
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCScotland.uk",BBC Scotland HD 
+#EXTINF:-1 tvg-id="BBCScotland.uk" group-title="JAMES",BBC Scotland HD 
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="ITV1.HD.uk",ITV 
+#EXTINF:-1 tvg-id="ITV1.HD.uk" group-title="JAMES",ITV 
 http://92.114.85.81:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four HD
+#EXTINF:-1 tvg-id="BBCFour.uk group-title="JAMES"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="JAMES",BBC Four HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports", Machester United TV
+#EXTINF:-1 tvg-id="MUTV.HD.uk  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="JAMES", Machester United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network USA
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us  tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="JAMES" ,CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj",BBC News
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk " tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj" group-title="JAMES",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyTmKyFtCEqSd0tetBweF9b8hMYYFDMRdug&s" group-title="Sports",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk group-title="JAMES"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyTmKyFtCEqSd0tetBweF9b8hMYYFDMRdug&s" group-title="JAMES",Eurosport 1
 http://45.159.74.14:80/Eurosport/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png" group-title="Sports",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png" group-title="JAMES",Eurosport 2
 http://62.210.123.134:98/live/an75d/75d/145.ts
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://yt3.googleusercontent.com/EKBT19BrrkDkhoxOjenonvDxIf0s4wDljOnCzPos7z3qAbmwA_cgNCDY_a1i_K_3dhH1BWmknQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Sky Sports Bundesliga
-http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="France.2.fr",France 2
+#EXTINF:-1 tvg-id="France.2.fr" group-title="FRANCECHANNELS",France 2
 http://51.178.65.238/France2/index.m3u8
-#EXTINF:-1 tvg-id="France.3.fr",France 3
+#EXTINF:-1 tvg-id="France.3.fr" group-title="FRANCECHANNELS",France 3
 https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/3.m3u8
-#EXTINF:-1 tvg-id="France.5.fr",France 5
+#EXTINF:-1 tvg-id="France.5.fr" group-title="FRANCECHANNELS",France 5
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/5.m3u8
-#EXTINF:-1 tvg-id="M6.fr",M6
+#EXTINF:-1 tvg-id="M6.fr" group-title="FRANCECHANNELS",M6
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",TF1
+#EXTINF:-1 tvg-id="TF1.fr" group-title="FRANCECHANNELS",TF1
 http://212.102.60.80/TF1/index.m3u8
-#EXTINF:-1 tvg-id="BFM.Lyon.fr",BFM Lyon
+#EXTINF:-1 tvg-id="BFM.Lyon.fr" group-title="FRANCECHANNELS",BFM Lyon
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr",Bein Sports 1
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" group-title="FRANCECHANNELS",Bein Sports 1
 http://51.178.65.238/BeinSport/mono.m3u8
-#EXTINF:-1 tvg-id="U.and.Dave.HD.uk",Dave
+#EXTINF:-1 tvg-id="U.and.Dave.HD.uk" group-title="JAMES",Dave
 http://92.114.85.81:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="Channel.5.uk",Channel 5
+#EXTINF:-1 tvg-id="Channel.5.uk" group-title="JAMES",Channel 5
 http://92.114.85.81:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://archive.org/services/img/SkySportsF1New_201708" group-title="Sports",Sky Sports F1
-/Jellyfin/LIVE TV/M3U/SkyF1.m3u
-#EXTINF:-1 tvg-id="SkySp.Foot.uk",Sky Sports Football
-/Jellyfin/LIVE TV/M3U/Skyfoot.m3u
-#EXTINF:-1 tvg-id="SkySp.News.uk",Sky Sports News
-/Jellyfin/LIVE TV/M3U/Skynews.m3u
+#EXTINF:-1 tvg-id="gxr.in" group-title="JAMES",GXR World
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
+#EXTINF:-1 tvg-id="636adc255bcf470007d6e0e2" group-title="𝙎𝙚𝙧𝙞𝗲𝙨 & 𝙏𝙫 𝙎𝙝𝙤𝙬𝙨" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png",BBC Top Gear 
+https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="cbsgolazo.us" tvg-id="63a0e33a45264d000850ed7e" group-title="𝙎𝗽𝙤𝗿𝙩𝙨" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png",CBS Golazo Network 
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+#EXTINF:-1 tvg-id="ESPN.br" group-title="𝙎𝗽𝙤𝗿𝙩𝙨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN  🇧🇷 
+http://hzcdn.vood.top:80/hls/309458_.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.br" group-title="𝙎𝗽𝙤𝗿𝙩𝙨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 2 🇧🇷 
+https://super-cdn.link/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.br" group-title="𝙎𝗽𝙤𝗿𝙩𝙨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 3 🇧🇷 
+https://super-cdn.link/espn3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.br" group-title="𝙎𝗽𝙤𝗿𝙩𝙨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 4 🇧🇷 
+https://super-cdn.link/espn4/index.m3u8
