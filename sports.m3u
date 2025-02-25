@@ -1,3 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="cbsgolazo.us" tvg-id="63a0e33a45264d000850ed7e" group-title="𝙎𝗽𝙤𝗿𝙩𝙨" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png",CBS Golazo Network 
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml"
+
+#EXTINF:-1 channel-id="Golazo Network" tvg-id="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" tvg-chno="19" group-title="US" , Sports
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96 -vcodec copy -acodec copy -metadata service_name=mjh-discovery-hgtv -f mpegts pipe:1
+
