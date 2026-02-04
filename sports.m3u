@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sky.Sports.Ultra.HD.1.uk" tvg-name="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png" group-title="hilaytv",Sky Sports UHD
+https://a1xs.vip/2000015
+
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="hilaytv",Sky Sports Football UK
+https://a1xs.vip/2000003
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk"  tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="hilaytv",Sky Sports Cricket
+https://a1xs.vip/2000006
+
+#EXTINF:-1 tvg-id="SkySpGolf.HD.uk"  tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="hilaytv",Sky Sports Golf
+https://a1xs.vip/2000009
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="hilaytv",UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 FHD" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="hilaytv",TNT Sports 1 FHD
+https://a1xs.vip/2000021
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="hilaytv",TNT Sports 2 FHD
+https://a1xs.vip/2000022
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="hilaytv",TNT Sports 3 FHD
+https://a1xs.vip/2000023
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="hilaytv",TNT Sports 4 FHD
+https://a1xs.vip/2000024
+
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-8-nz.png" group-title="hilaytv",Sky Sport 8 NZ
+https://a1xs.vip/700008
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="hilaytv",CBS Sports Network
+https://a1xs.vip/4000008
+
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" group-title="hilaytv",CBS Sports Golazo Network
+https://a1xs.vip/4000009
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="hilaytv",IRE: Premier Sports 1 FHD
+https://a1xs.vip/8000021
